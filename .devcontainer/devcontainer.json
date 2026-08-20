@@ -10,11 +10,13 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-azuretools.vscode-docker",        
-        "vscjava.vscode-java-pack",           
-        "vmware.vscode-spring-boot",          
+        "ms-azuretools.vscode-docker",      
+        "vscjava.vscode-java-pack",    //Java         
+        "vmware.vscode-spring-boot",   //spring boot
+           
         "vscjava.vscode-spring-boot-dashboard", 
-        "cweijan.vscode-mysql-client2"        
+        "cweijan.vscode-mysql-client2",   //MySQL
+        "vscjava.vscode-spring-initializr"  //Criacao de projeto spring boot    
       ],
 
       "settings": {
