@@ -30,5 +30,6 @@ public class Pedido {
     @ManyToOne
     private Cliente cliente;
     
+    
 
 }
